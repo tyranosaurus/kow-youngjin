@@ -1,0 +1,7 @@
+LogoMain
+
+  - 로고 잠시 뜨고 사라지는 화면
+
+  - package : com.estsoft.logo.logomain
+
+  - Phone and Tablet : Minimum SDK API 15

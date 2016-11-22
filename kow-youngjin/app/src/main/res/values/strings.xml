@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kow</string>
+    <!--<string name="closedrawer">Close drawer</string>-->
+    <!--<string name="opendrawer">Open drawer</string>-->
+    <string name="complete">Complete</string>
+    <string name="waiting">Waiting</string>
+    <string name="favorite">Favorite</string>
+    <string name="mypage">Mypage</string>
+</resources>

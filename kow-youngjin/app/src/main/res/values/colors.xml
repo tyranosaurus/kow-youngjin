@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4091</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="backgroudColor">#FFFFFF</color>
+    <color name="statusBarColor">#E5E5E5</color>
+    <color name="menuColor">#C4C3CB</color>
+    <color name="menuSelectedColor">#FF4091</color>
+
+
+
+    <!-- 투명색 -->
+    <color name="transparentMainColor">#0061CAFC</color>
+</resources>
